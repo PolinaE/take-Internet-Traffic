@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<traffic>
+  <!-- Описание порции данных -->
+  <!-- Имя процесса -->
+  <!-- Вид порции: 0 - входящие данные; 1 - исходяшие -->
+  <!-- Время передачи данных -->
+  <!-- Размер порции данных в байтах -->
+  <portion>
+    <processName></processName>
+    <type></type>
+    <sTime></sTime>
+    <cTime></cTime>
+    <size></size>
+  </portion>
+</traffic>

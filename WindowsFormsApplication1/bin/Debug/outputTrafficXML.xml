@@ -1,0 +1,2073 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<traffic>
+  <!-- Описание порции данных -->
+  <!-- Имя процесса -->
+  <!-- Вид порции: 0 - входящие данные; 1 - исходяшие -->
+  <!-- Время передачи данных -->
+  <!-- Размер порции данных в байтах -->
+  <portion>
+    <processName>opera</processName>
+    <type>0</type>
+    <sTime>25.11.2016 17:02:08.76</sTime>
+    <cTime>25.11.2016 17:02:08.76</cTime>
+    <size>67986,5234375 B</size>
+  </portion>
+  <portion>
+    <processName>opera</processName>
+    <type>1</type>
+    <sTime>25.11.2016 17:02:10.138</sTime>
+    <cTime>25.11.2016 17:02:10.138</cTime>
+    <size>14115,611328125 B</size>
+  </portion>
+  <portion>
+    <processName>opera</processName>
+    <type>0</type>
+    <sTime>25.11.2016 17:02:10.146</sTime>
+    <cTime>25.11.2016 17:02:10.146</cTime>
+    <size>1522,98498535156 B</size>
+  </portion>
+  <portion>
+    <processName>opera_crashreporter</processName>
+    <type>0</type>
+    <sTime>25.11.2016 17:02:10.415</sTime>
+    <cTime>25.11.2016 17:02:10.415</cTime>
+    <size>44489,4921875 B</size>
+  </portion>
+  <portion>
+    <processName>RuntimeBroker</processName>
+    <type>1</type>
+    <sTime>25.11.2016 17:02:12.291</sTime>
+    <cTime>25.11.2016 17:02:12.291</cTime>
+    <size>367527,03125 B</size>
+  </portion>
+  <portion>
+    <processName>dwwatcher</processName>
+    <type>0</type>
+    <sTime>25.11.2016 17:02:12.585</sTime>
+    <cTime>25.11.2016 17:02:12.585</cTime>
+    <size>377997,46875 B</size>
+  </portion>
+  <portion>
+    <processName>WUDFHost</processName>
+    <type>1</type>
+    <sTime>25.11.2016 17:02:12.601</sTime>
+    <cTime>25.11.2016 17:02:12.601</cTime>
+    <size>1672787,25 B</size>
+  </portion>
+  <portion>
+    <processName>SearchFilterHost</processName>
+    <type>0</type>
+    <sTime>25.11.2016 17:02:12.619</sTime>
+    <cTime>25.11.2016 17:02:12.619</cTime>
+    <size>69755,1328125 B</size>
+  </portion>
+  <portion>
+    <processName>opera</processName>
+    <type>1</type>
+    <sTime>25.11.2016 17:02:16.367</sTime>
+    <cTime>25.11.2016 17:02:16.367</cTime>
+    <size>35292,05078125 B</size>
+  </portion>
+  <portion>
+    <processName>devenv</processName>
+    <type>1</type>
+    <sTime>25.11.2016 17:02:16.377</sTime>
+    <cTime>25.11.2016 17:02:16.377</cTime>
+    <size>49030,36328125 B</size>
+  </portion>
+  <portion>
+    <processName>dasHost</processName>
+    <type>0</type>
+    <sTime>25.11.2016 17:02:16.381</sTime>
+    <cTime>25.11.2016 17:02:16.381</cTime>
+    <size>17202,95703125 B</size>
+  </portion>
+  <portion>
+    <processName>MSBuild</processName>
+    <type>0</type>
+    <sTime>25.11.2016 17:02:16.389</sTime>
+    <cTime>25.11.2016 17:02:16.389</cTime>
+    <size>479516,15625 B</size>
+  </portion>
+  <portion>
+    <processName>opera</processName>
+    <type>1</type>
+    <sTime>25.11.2016 17:02:16.391</sTime>
+    <cTime>25.11.2016 17:02:16.391</cTime>
+    <size>103954,6328125 B</size>
+  </portion>
+  <portion>
+    <processName>ibserver</processName>
+    <type>0</type>
+    <sTime>25.11.2016 17:02:16.400</sTime>
+    <cTime>25.11.2016 17:02:16.400</cTime>
+    <size>65645,078125 B</size>
+  </portion>
+  <portion>
+    <processName>conhost</processName>
+    <type>0</type>
+    <sTime>25.11.2016 17:02:16.408</sTime>
+    <cTime>25.11.2016 17:02:16.408</cTime>
+    <size>1647556,875 B</size>
+  </portion>
+  <portion>
+    <processName>opera</processName>
+    <type>0</type>
+    <sTime>25.11.2016 17:02:16.414</sTime>
+    <cTime>25.11.2016 17:02:16.414</cTime>
+    <size>324751,9375 B</size>
+  </portion>
+  <portion>
+    <processName>System</processName>
+    <type>0</type>
+    <sTime>25.11.2016 17:02:16.425</sTime>
+    <cTime>25.11.2016 17:02:16.425</cTime>
+    <size>95028,78125 B</size>
+  </portion>
+  <portion>
+    <processName>smss</processName>
+    <type>1</type>
+    <sTime>25.11.2016 17:02:16.429</sTime>
+    <cTime>25.11.2016 17:02:16.429</cTime>
+    <size>684242,5625 B</size>
+  </portion>
+  <portion>
+    <processName>Idle</processName>
+    <type>0</type>
+    <sTime>25.11.2016 17:02:16.445</sTime>
+    <cTime>25.11.2016 17:02:16.445</cTime>
+    <size>429446,5625 B</size>
+  </portion>
+  <portion>
+    <processName>ibguard</processName>
+    <type>1</type>
+    <sTime>25.11.2016 17:02:16.925</sTime>
+    <cTime>25.11.2016 17:02:16.925</cTime>
+    <size>58456,53515625 B</size>
+  </portion>
+  <portion>
+    <processName>System</processName>
+    <type>1</type>
+    <sTime>25.11.2016 17:02:16.979</sTime>
+    <cTime>25.11.2016 17:02:16.979</cTime>
+    <size>40774,390625 B</size>
+  </portion>
+  <portion>
+    <processName>smss</processName>
+    <type>0</type>
+    <sTime>25.11.2016 17:02:16.982</sTime>
+    <cTime>25.11.2016 17:02:16.982</cTime>
+    <size>18801,330078125 B</size>
+  </portion>
+  <portion>
+    <processName>opera</processName>
+    <type>0</type>
+    <sTime>25.11.2016 17:02:17.34</sTime>
+    <cTime>25.11.2016 17:02:17.34</cTime>
+    <size>73720,7109375 B</size>
+  </portion>
+  <portion>
+    <processName>devenv</processName>
+    <type>0</type>
+    <sTime>25.11.2016 17:02:17.49</sTime>
+    <cTime>25.11.2016 17:02:17.49</cTime>
+    <size>6752123,5 B</size>
+  </portion>
+  <portion>
+    <processName>WindowsFormsApplication1.vshost</processName>
+    <type>0</type>
+    <sTime>25.11.2016 17:02:17.99</sTime>
+    <cTime>25.11.2016 17:02:17.99</cTime>
+    <size>337470,71875 B</size>
+  </portion>
+  <portion>
+    <processName>mqsvc</processName>
+    <type>1</type>
+    <sTime>25.11.2016 17:02:17.102</sTime>
+    <cTime>25.11.2016 17:02:17.102</cTime>
+    <size>63378,7890625 B</size>
+  </portion>
+  <portion>
+    <processName>dasHost</processName>
+    <type>0</type>
+    <sTime>25.11.2016 17:02:17.152</sTime>
+    <cTime>25.11.2016 17:02:17.152</cTime>
+    <size>365738,21875 B</size>
+  </portion>
+  <portion>
+    <processName>svchost</processName>
+    <type>0</type>
+    <sTime>25.11.2016 17:02:17.234</sTime>
+    <cTime>25.11.2016 17:02:17.234</cTime>
+    <size>450087,75 B</size>
+  </portion>
+  <portion>
+    <processName>VsEtwService</processName>
+    <type>0</type>
+    <sTime>25.11.2016 17:02:17.306</sTime>
+    <cTime>25.11.2016 17:02:17.306</cTime>
+    <size>20602,244140625 B</size>
+  </portion>
+  <portion>
+    <processName>WUDFHost</processName>
+    <type>1</type>
+    <sTime>25.11.2016 17:02:17.729</sTime>
+    <cTime>25.11.2016 17:02:17.729</cTime>
+    <size>492652,28125 B</size>
+  </portion>
+  <portion>
+    <processName>dwwatcher</processName>
+    <type>0</type>
+    <sTime>25.11.2016 17:02:17.741</sTime>
+    <cTime>25.11.2016 17:02:17.741</cTime>
+    <size>68890,90625 B</size>
+  </portion>
+  <portion>
+    <processName>opera</processName>
+    <type>0</type>
+    <sTime>25.11.2016 17:02:17.747</sTime>
+    <cTime>25.11.2016 17:02:17.747</cTime>
+    <size>349527,09375 B</size>
+  </portion>
+  <portion>
+    <processName>opera</processName>
+    <type>0</type>
+    <sTime>25.11.2016 17:02:17.752</sTime>
+    <cTime>25.11.2016 17:02:17.752</cTime>
+    <size>9152,18359375 B</size>
+  </portion>
+  <portion>
+    <processName>svchost</processName>
+    <type>0</type>
+    <sTime>25.11.2016 17:02:17.757</sTime>
+    <cTime>25.11.2016 17:02:17.757</cTime>
+    <size>489254,1875 B</size>
+  </portion>
+  <portion>
+    <processName>opera</processName>
+    <type>0</type>
+    <sTime>25.11.2016 17:02:17.761</sTime>
+    <cTime>25.11.2016 17:02:17.761</cTime>
+    <size>19611,3359375 B</size>
+  </portion>
+  <portion>
+    <processName>ibguard</processName>
+    <type>0</type>
+    <sTime>25.11.2016 17:02:17.866</sTime>
+    <cTime>25.11.2016 17:02:17.866</cTime>
+    <size>15322,126953125 B</size>
+  </portion>
+  <portion>
+    <processName>csrss</processName>
+    <type>1</type>
+    <sTime>25.11.2016 17:02:17.897</sTime>
+    <cTime>25.11.2016 17:02:17.897</cTime>
+    <size>216323,578125 B</size>
+  </portion>
+  <portion>
+    <processName>SearchFilterHost</processName>
+    <type>0</type>
+    <sTime>25.11.2016 17:02:18.19</sTime>
+    <cTime>25.11.2016 17:02:18.19</cTime>
+    <size>134703,640625 B</size>
+  </portion>
+  <portion>
+    <processName>conhost</processName>
+    <type>0</type>
+    <sTime>25.11.2016 17:02:18.27</sTime>
+    <cTime>25.11.2016 17:02:18.27</cTime>
+    <size>99971,7421875 B</size>
+  </portion>
+  <portion>
+    <processName>svchost</processName>
+    <type>0</type>
+    <sTime>25.11.2016 17:02:18.34</sTime>
+    <cTime>25.11.2016 17:02:18.34</cTime>
+    <size>1094018,875 B</size>
+  </portion>
+  <portion>
+    <processName>opera</processName>
+    <type>0</type>
+    <sTime>25.11.2016 17:02:18.40</sTime>
+    <cTime>25.11.2016 17:02:18.40</cTime>
+    <size>2442514,75 B</size>
+  </portion>
+  <portion>
+    <processName>svchost</processName>
+    <type>0</type>
+    <sTime>25.11.2016 17:02:18.45</sTime>
+    <cTime>25.11.2016 17:02:18.45</cTime>
+    <size>521830,59375 B</size>
+  </portion>
+  <portion>
+    <processName>dasHost</processName>
+    <type>0</type>
+    <sTime>25.11.2016 17:02:18.56</sTime>
+    <cTime>25.11.2016 17:02:18.56</cTime>
+    <size>346102,5 B</size>
+  </portion>
+  <portion>
+    <processName>svchost</processName>
+    <type>0</type>
+    <sTime>25.11.2016 17:02:18.144</sTime>
+    <cTime>25.11.2016 17:02:18.144</cTime>
+    <size>196436,53125 B</size>
+  </portion>
+  <portion>
+    <processName>PassThruSvr</processName>
+    <type>0</type>
+    <sTime>25.11.2016 17:02:18.168</sTime>
+    <cTime>25.11.2016 17:02:18.168</cTime>
+    <size>53530,6171875 B</size>
+  </portion>
+  <portion>
+    <processName>dwnetfilter</processName>
+    <type>0</type>
+    <sTime>25.11.2016 17:02:18.177</sTime>
+    <cTime>25.11.2016 17:02:18.177</cTime>
+    <size>89446,28125 B</size>
+  </portion>
+  <portion>
+    <processName>MSBuild</processName>
+    <type>0</type>
+    <sTime>25.11.2016 17:02:18.184</sTime>
+    <cTime>25.11.2016 17:02:18.184</cTime>
+    <size>329482,28125 B</size>
+  </portion>
+  <portion>
+    <processName>opera</processName>
+    <type>0</type>
+    <sTime>25.11.2016 17:02:18.187</sTime>
+    <cTime>25.11.2016 17:02:18.187</cTime>
+    <size>117742,109375 B</size>
+  </portion>
+  <portion>
+    <processName>Microsoft.Alm.Shared.Remoting.RemoteContainer.dll</processName>
+    <type>0</type>
+    <sTime>25.11.2016 17:02:18.190</sTime>
+    <cTime>25.11.2016 17:02:18.190</cTime>
+    <size>1193696,375 B</size>
+  </portion>
+  <portion>
+    <processName>SMSvcHost</processName>
+    <type>0</type>
+    <sTime>25.11.2016 17:02:18.198</sTime>
+    <cTime>25.11.2016 17:02:18.198</cTime>
+    <size>5342224 B</size>
+  </portion>
+  <portion>
+    <processName>ViakaraokeSrv</processName>
+    <type>0</type>
+    <sTime>25.11.2016 17:02:18.232</sTime>
+    <cTime>25.11.2016 17:02:18.232</cTime>
+    <size>25279,7734375 B</size>
+  </portion>
+  <portion>
+    <processName>opera</processName>
+    <type>1</type>
+    <sTime>25.11.2016 17:02:18.234</sTime>
+    <cTime>25.11.2016 17:02:18.234</cTime>
+    <size>20546,056640625 B</size>
+  </portion>
+  <portion>
+    <processName>SearchIndexer</processName>
+    <type>1</type>
+    <sTime>25.11.2016 17:02:18.237</sTime>
+    <cTime>25.11.2016 17:02:18.237</cTime>
+    <size>41463,06640625 B</size>
+  </portion>
+  <portion>
+    <processName>opera_crashreporter</processName>
+    <type>1</type>
+    <sTime>25.11.2016 17:02:18.268</sTime>
+    <cTime>25.11.2016 17:02:18.268</cTime>
+    <size>5218,40478515625 B</size>
+  </portion>
+  <portion>
+    <processName>conhost</processName>
+    <type>1</type>
+    <sTime>25.11.2016 17:02:18.274</sTime>
+    <cTime>25.11.2016 17:02:18.274</cTime>
+    <size>54847,52734375 B</size>
+  </portion>
+  <portion>
+    <processName>opera</processName>
+    <type>1</type>
+    <sTime>25.11.2016 17:02:18.278</sTime>
+    <cTime>25.11.2016 17:02:18.278</cTime>
+    <size>17125,833984375 B</size>
+  </portion>
+  <portion>
+    <processName>opera</processName>
+    <type>1</type>
+    <sTime>25.11.2016 17:02:18.294</sTime>
+    <cTime>25.11.2016 17:02:18.294</cTime>
+    <size>190761,21875 B</size>
+  </portion>
+  <portion>
+    <processName>opera</processName>
+    <type>1</type>
+    <sTime>25.11.2016 17:02:18.299</sTime>
+    <cTime>25.11.2016 17:02:18.299</cTime>
+    <size>40932,63671875 B</size>
+  </portion>
+  <portion>
+    <processName>opera</processName>
+    <type>0</type>
+    <sTime>25.11.2016 17:02:18.304</sTime>
+    <cTime>25.11.2016 17:02:18.304</cTime>
+    <size>298607,65625 B</size>
+  </portion>
+  <portion>
+    <processName>mqsvc</processName>
+    <type>0</type>
+    <sTime>25.11.2016 17:02:18.308</sTime>
+    <cTime>25.11.2016 17:02:18.308</cTime>
+    <size>262664,15625 B</size>
+  </portion>
+  <portion>
+    <processName>conhost</processName>
+    <type>1</type>
+    <sTime>25.11.2016 17:02:18.354</sTime>
+    <cTime>25.11.2016 17:02:18.354</cTime>
+    <size>66565,765625 B</size>
+  </portion>
+  <portion>
+    <processName>svchost</processName>
+    <type>1</type>
+    <sTime>25.11.2016 17:02:18.357</sTime>
+    <cTime>25.11.2016 17:02:18.357</cTime>
+    <size>18692,947265625 B</size>
+  </portion>
+  <portion>
+    <processName>hkcmd</processName>
+    <type>1</type>
+    <sTime>25.11.2016 17:02:18.443</sTime>
+    <cTime>25.11.2016 17:02:18.443</cTime>
+    <size>164739,296875 B</size>
+  </portion>
+  <portion>
+    <processName>svchost</processName>
+    <type>1</type>
+    <sTime>25.11.2016 17:02:18.448</sTime>
+    <cTime>25.11.2016 17:02:18.448</cTime>
+    <size>38414,72265625 B</size>
+  </portion>
+  <portion>
+    <processName>Dropbox</processName>
+    <type>0</type>
+    <sTime>25.11.2016 17:02:18.453</sTime>
+    <cTime>25.11.2016 17:02:18.453</cTime>
+    <size>304239,6875 B</size>
+  </portion>
+  <portion>
+    <processName>conhost</processName>
+    <type>0</type>
+    <sTime>25.11.2016 17:02:18.459</sTime>
+    <cTime>25.11.2016 17:02:18.459</cTime>
+    <size>287443,78125 B</size>
+  </portion>
+  <portion>
+    <processName>services</processName>
+    <type>1</type>
+    <sTime>25.11.2016 17:02:18.487</sTime>
+    <cTime>25.11.2016 17:02:18.487</cTime>
+    <size>1796605 B</size>
+  </portion>
+  <portion>
+    <processName>opera</processName>
+    <type>0</type>
+    <sTime>25.11.2016 17:02:18.495</sTime>
+    <cTime>25.11.2016 17:02:18.495</cTime>
+    <size>269284,5 B</size>
+  </portion>
+  <portion>
+    <processName>svchost</processName>
+    <type>0</type>
+    <sTime>25.11.2016 17:02:18.501</sTime>
+    <cTime>25.11.2016 17:02:18.501</cTime>
+    <size>10697,453125 B</size>
+  </portion>
+  <portion>
+    <processName>svchost</processName>
+    <type>1</type>
+    <sTime>25.11.2016 17:02:18.507</sTime>
+    <cTime>25.11.2016 17:02:18.507</cTime>
+    <size>8572,1962890625 B</size>
+  </portion>
+  <portion>
+    <processName>SearchUI</processName>
+    <type>1</type>
+    <sTime>25.11.2016 17:02:18.512</sTime>
+    <cTime>25.11.2016 17:02:18.512</cTime>
+    <size>10334,9189453125 B</size>
+  </portion>
+  <portion>
+    <processName>smss</processName>
+    <type>1</type>
+    <sTime>25.11.2016 17:02:18.522</sTime>
+    <cTime>25.11.2016 17:02:18.522</cTime>
+    <size>2565325 B</size>
+  </portion>
+  <portion>
+    <processName>IntelliTrace</processName>
+    <type>1</type>
+    <sTime>25.11.2016 17:02:18.546</sTime>
+    <cTime>25.11.2016 17:02:18.546</cTime>
+    <size>12616 B</size>
+  </portion>
+  <portion>
+    <processName>svchost</processName>
+    <type>1</type>
+    <sTime>25.11.2016 17:02:18.583</sTime>
+    <cTime>25.11.2016 17:02:18.583</cTime>
+    <size>55230,48046875 B</size>
+  </portion>
+  <portion>
+    <processName>svchost</processName>
+    <type>1</type>
+    <sTime>25.11.2016 17:02:18.662</sTime>
+    <cTime>25.11.2016 17:02:18.662</cTime>
+    <size>51439,37109375 B</size>
+  </portion>
+  <portion>
+    <processName>PassThruSvr</processName>
+    <type>0</type>
+    <sTime>25.11.2016 17:02:18.666</sTime>
+    <cTime>25.11.2016 17:02:18.666</cTime>
+    <size>3971392,25 B</size>
+  </portion>
+  <portion>
+    <processName>dwnetfilter</processName>
+    <type>0</type>
+    <sTime>25.11.2016 17:02:18.677</sTime>
+    <cTime>25.11.2016 17:02:18.677</cTime>
+    <size>3333057,25 B</size>
+  </portion>
+  <portion>
+    <processName>opera</processName>
+    <type>1</type>
+    <sTime>25.11.2016 17:02:18.681</sTime>
+    <cTime>25.11.2016 17:02:18.681</cTime>
+    <size>14001,787109375 B</size>
+  </portion>
+  <portion>
+    <processName>lsass</processName>
+    <type>0</type>
+    <sTime>25.11.2016 17:02:18.690</sTime>
+    <cTime>25.11.2016 17:02:18.690</cTime>
+    <size>2020690,875 B</size>
+  </portion>
+  <portion>
+    <processName>svchost</processName>
+    <type>0</type>
+    <sTime>25.11.2016 17:02:18.697</sTime>
+    <cTime>25.11.2016 17:02:18.697</cTime>
+    <size>3417199,75 B</size>
+  </portion>
+  <portion>
+    <processName>MSBuild</processName>
+    <type>0</type>
+    <sTime>25.11.2016 17:02:18.701</sTime>
+    <cTime>25.11.2016 17:02:18.701</cTime>
+    <size>901493,0625 B</size>
+  </portion>
+  <portion>
+    <processName>opera</processName>
+    <type>0</type>
+    <sTime>25.11.2016 17:02:18.712</sTime>
+    <cTime>25.11.2016 17:02:18.712</cTime>
+    <size>6677957,5 B</size>
+  </portion>
+  <portion>
+    <processName>Microsoft.Alm.Shared.Remoting.RemoteContainer.dll</processName>
+    <type>0</type>
+    <sTime>25.11.2016 17:02:18.717</sTime>
+    <cTime>25.11.2016 17:02:18.717</cTime>
+    <size>1217294,5 B</size>
+  </portion>
+  <portion>
+    <processName>SMSvcHost</processName>
+    <type>0</type>
+    <sTime>25.11.2016 17:02:18.727</sTime>
+    <cTime>25.11.2016 17:02:18.727</cTime>
+    <size>447014,78125 B</size>
+  </portion>
+  <portion>
+    <processName>opera</processName>
+    <type>1</type>
+    <sTime>25.11.2016 17:02:18.781</sTime>
+    <cTime>25.11.2016 17:02:18.781</cTime>
+    <size>6342,48486328125 B</size>
+  </portion>
+  <portion>
+    <processName>WindowsFormsApplication1.vshost</processName>
+    <type>0</type>
+    <sTime>25.11.2016 17:02:18.793</sTime>
+    <cTime>25.11.2016 17:02:18.793</cTime>
+    <size>22116,1328125 B</size>
+  </portion>
+  <portion>
+    <processName>winlogon</processName>
+    <type>1</type>
+    <sTime>25.11.2016 17:02:18.824</sTime>
+    <cTime>25.11.2016 17:02:18.825</cTime>
+    <size>11439,8896484375 B</size>
+  </portion>
+  <portion>
+    <processName>WUDFHost</processName>
+    <type>0</type>
+    <sTime>25.11.2016 17:02:18.830</sTime>
+    <cTime>25.11.2016 17:02:18.830</cTime>
+    <size>554358,8125 B</size>
+  </portion>
+  <portion>
+    <processName>wininit</processName>
+    <type>1</type>
+    <sTime>25.11.2016 17:02:18.833</sTime>
+    <cTime>25.11.2016 17:02:18.833</cTime>
+    <size>17576,517578125 B</size>
+  </portion>
+  <portion>
+    <processName>conhost</processName>
+    <type>0</type>
+    <sTime>25.11.2016 17:02:18.865</sTime>
+    <cTime>25.11.2016 17:02:18.865</cTime>
+    <size>28693,33984375 B</size>
+  </portion>
+  <portion>
+    <processName>Dropbox</processName>
+    <type>1</type>
+    <sTime>25.11.2016 17:02:19.612</sTime>
+    <cTime>25.11.2016 17:02:19.612</cTime>
+    <size>34804,24609375 B</size>
+  </portion>
+  <portion>
+    <processName>backgroundTaskHost</processName>
+    <type>0</type>
+    <sTime>25.11.2016 17:02:19.622</sTime>
+    <cTime>25.11.2016 17:02:19.622</cTime>
+    <size>118109,859375 B</size>
+  </portion>
+  <portion>
+    <processName>opera</processName>
+    <type>1</type>
+    <sTime>25.11.2016 17:02:20.3</sTime>
+    <cTime>25.11.2016 17:02:20.3</cTime>
+    <size>332211,78125 B</size>
+  </portion>
+  <portion>
+    <processName>opera</processName>
+    <type>0</type>
+    <sTime>25.11.2016 17:02:20.39</sTime>
+    <cTime>25.11.2016 17:02:20.39</cTime>
+    <size>396212,875 B</size>
+  </portion>
+  <portion>
+    <processName>ijplmsvc</processName>
+    <type>1</type>
+    <sTime>25.11.2016 17:02:20.47</sTime>
+    <cTime>25.11.2016 17:02:20.47</cTime>
+    <size>82198,09375 B</size>
+  </portion>
+  <portion>
+    <processName>sqlwriter</processName>
+    <type>0</type>
+    <sTime>25.11.2016 17:02:20.62</sTime>
+    <cTime>25.11.2016 17:02:20.62</cTime>
+    <size>71612,015625 B</size>
+  </portion>
+  <portion>
+    <processName>opera</processName>
+    <type>1</type>
+    <sTime>25.11.2016 17:02:20.72</sTime>
+    <cTime>25.11.2016 17:02:20.72</cTime>
+    <size>6446,09033203125 B</size>
+  </portion>
+  <portion>
+    <processName>conhost</processName>
+    <type>1</type>
+    <sTime>25.11.2016 17:02:20.90</sTime>
+    <cTime>25.11.2016 17:02:20.90</cTime>
+    <size>56681,59765625 B</size>
+  </portion>
+  <portion>
+    <processName>spoolsv</processName>
+    <type>0</type>
+    <sTime>25.11.2016 17:02:20.101</sTime>
+    <cTime>25.11.2016 17:02:20.101</cTime>
+    <size>51274,33984375 B</size>
+  </portion>
+  <portion>
+    <processName>dwarkdaemon</processName>
+    <type>1</type>
+    <sTime>25.11.2016 17:02:20.784</sTime>
+    <cTime>25.11.2016 17:02:20.784</cTime>
+    <size>82018,53125 B</size>
+  </portion>
+  <portion>
+    <processName>svchost</processName>
+    <type>0</type>
+    <sTime>25.11.2016 17:02:20.813</sTime>
+    <cTime>25.11.2016 17:02:20.813</cTime>
+    <size>13132,28515625 B</size>
+  </portion>
+  <portion>
+    <processName>conhost</processName>
+    <type>0</type>
+    <sTime>25.11.2016 17:02:20.892</sTime>
+    <cTime>25.11.2016 17:02:20.892</cTime>
+    <size>13648,2666015625 B</size>
+  </portion>
+  <portion>
+    <processName>svchost</processName>
+    <type>0</type>
+    <sTime>25.11.2016 17:02:24.505</sTime>
+    <cTime>25.11.2016 17:02:24.505</cTime>
+    <size>67928,140625 B</size>
+  </portion>
+  <portion>
+    <processName>ibguard</processName>
+    <type>0</type>
+    <sTime>25.11.2016 17:02:24.534</sTime>
+    <cTime>25.11.2016 17:02:24.534</cTime>
+    <size>108746,65625 B</size>
+  </portion>
+  <portion>
+    <processName>opera_crashreporter</processName>
+    <type>1</type>
+    <sTime>25.11.2016 17:02:24.585</sTime>
+    <cTime>25.11.2016 17:02:24.585</cTime>
+    <size>66690,484375 B</size>
+  </portion>
+  <portion>
+    <processName>svchost</processName>
+    <type>1</type>
+    <sTime>25.11.2016 17:02:24.768</sTime>
+    <cTime>25.11.2016 17:02:24.768</cTime>
+    <size>57320,5234375 B</size>
+  </portion>
+  <portion>
+    <processName>PassThruSvr</processName>
+    <type>0</type>
+    <sTime>25.11.2016 17:02:24.770</sTime>
+    <cTime>25.11.2016 17:02:24.770</cTime>
+    <size>79681,8203125 B</size>
+  </portion>
+  <portion>
+    <processName>dwnetfilter</processName>
+    <type>1</type>
+    <sTime>25.11.2016 17:02:24.770</sTime>
+    <cTime>25.11.2016 17:02:24.770</cTime>
+    <size>68818,8203125 B</size>
+  </portion>
+  <portion>
+    <processName>opera</processName>
+    <type>0</type>
+    <sTime>25.11.2016 17:02:24.878</sTime>
+    <cTime>25.11.2016 17:02:24.878</cTime>
+    <size>48721,77734375 B</size>
+  </portion>
+  <portion>
+    <processName>opera</processName>
+    <type>1</type>
+    <sTime>25.11.2016 17:02:24.892</sTime>
+    <cTime>25.11.2016 17:02:24.892</cTime>
+    <size>56772 B</size>
+  </portion>
+  <portion>
+    <processName>WindowsFormsApplication1.vshost</processName>
+    <type>1</type>
+    <sTime>25.11.2016 17:02:25.148</sTime>
+    <cTime>25.11.2016 17:02:25.148</cTime>
+    <size>333185,65625 B</size>
+  </portion>
+  <portion>
+    <processName>svchost</processName>
+    <type>0</type>
+    <sTime>25.11.2016 17:02:25.186</sTime>
+    <cTime>25.11.2016 17:02:25.186</cTime>
+    <size>318364,9375 B</size>
+  </portion>
+  <portion>
+    <processName>SearchIndexer</processName>
+    <type>1</type>
+    <sTime>25.11.2016 17:02:25.236</sTime>
+    <cTime>25.11.2016 17:02:25.236</cTime>
+    <size>53608,5 B</size>
+  </portion>
+  <portion>
+    <processName>svchost</processName>
+    <type>1</type>
+    <sTime>25.11.2016 17:02:25.624</sTime>
+    <cTime>25.11.2016 17:02:25.624</cTime>
+    <size>256997,140625 B</size>
+  </portion>
+  <portion>
+    <processName>opera</processName>
+    <type>0</type>
+    <sTime>25.11.2016 17:02:25.656</sTime>
+    <cTime>25.11.2016 17:02:25.656</cTime>
+    <size>304825,90625 B</size>
+  </portion>
+  <portion>
+    <processName>VsEtwService</processName>
+    <type>1</type>
+    <sTime>25.11.2016 17:02:25.708</sTime>
+    <cTime>25.11.2016 17:02:25.708</cTime>
+    <size>11401,6796875 B</size>
+  </portion>
+  <portion>
+    <processName>svchost</processName>
+    <type>1</type>
+    <sTime>25.11.2016 17:02:25.716</sTime>
+    <cTime>25.11.2016 17:02:25.716</cTime>
+    <size>10456,185546875 B</size>
+  </portion>
+  <portion>
+    <processName>svchost</processName>
+    <type>0</type>
+    <sTime>25.11.2016 17:02:25.725</sTime>
+    <cTime>25.11.2016 17:02:25.725</cTime>
+    <size>28811,8359375 B</size>
+  </portion>
+  <portion>
+    <processName>ShellExperienceHost</processName>
+    <type>0</type>
+    <sTime>25.11.2016 17:02:25.731</sTime>
+    <cTime>25.11.2016 17:02:25.731</cTime>
+    <size>10964,9736328125 B</size>
+  </portion>
+  <portion>
+    <processName>spideragent</processName>
+    <type>1</type>
+    <sTime>25.11.2016 17:02:25.737</sTime>
+    <cTime>25.11.2016 17:02:25.737</cTime>
+    <size>9646,337890625 B</size>
+  </portion>
+  <portion>
+    <processName>igfxpers</processName>
+    <type>0</type>
+    <sTime>25.11.2016 17:02:25.737</sTime>
+    <cTime>25.11.2016 17:02:25.737</cTime>
+    <size>40295,00390625 B</size>
+  </portion>
+  <portion>
+    <processName>svchost</processName>
+    <type>0</type>
+    <sTime>25.11.2016 17:02:25.755</sTime>
+    <cTime>25.11.2016 17:02:25.755</cTime>
+    <size>39940,58203125 B</size>
+  </portion>
+  <portion>
+    <processName>opera</processName>
+    <type>0</type>
+    <sTime>25.11.2016 17:02:25.818</sTime>
+    <cTime>25.11.2016 17:02:25.818</cTime>
+    <size>66254,3984375 B</size>
+  </portion>
+  <portion>
+    <processName>csrss</processName>
+    <type>1</type>
+    <sTime>25.11.2016 17:02:25.859</sTime>
+    <cTime>25.11.2016 17:02:25.859</cTime>
+    <size>58234,8359375 B</size>
+  </portion>
+  <portion>
+    <processName>dwm</processName>
+    <type>1</type>
+    <sTime>25.11.2016 17:02:26.285</sTime>
+    <cTime>25.11.2016 17:02:26.285</cTime>
+    <size>110117,671875 B</size>
+  </portion>
+  <portion>
+    <processName>raysat_3dsmax2013_32server</processName>
+    <type>0</type>
+    <sTime>25.11.2016 17:02:26.319</sTime>
+    <cTime>25.11.2016 17:02:26.319</cTime>
+    <size>8834,6298828125 B</size>
+  </portion>
+  <portion>
+    <processName>spoolsv</processName>
+    <type>1</type>
+    <sTime>25.11.2016 17:02:26.368</sTime>
+    <cTime>25.11.2016 17:02:26.368</cTime>
+    <size>59850,4296875 B</size>
+  </portion>
+  <portion>
+    <processName>SMSvcHost</processName>
+    <type>1</type>
+    <sTime>25.11.2016 17:02:26.620</sTime>
+    <cTime>25.11.2016 17:02:26.620</cTime>
+    <size>309051,78125 B</size>
+  </portion>
+  <portion>
+    <processName>ViakaraokeSrv</processName>
+    <type>0</type>
+    <sTime>25.11.2016 17:02:26.659</sTime>
+    <cTime>25.11.2016 17:02:26.659</cTime>
+    <size>8048,8447265625 B</size>
+  </portion>
+  <portion>
+    <processName>opera</processName>
+    <type>1</type>
+    <sTime>25.11.2016 17:02:26.669</sTime>
+    <cTime>25.11.2016 17:02:26.669</cTime>
+    <size>7059,30029296875 B</size>
+  </portion>
+  <portion>
+    <processName>SearchIndexer</processName>
+    <type>0</type>
+    <sTime>25.11.2016 17:02:26.671</sTime>
+    <cTime>25.11.2016 17:02:26.671</cTime>
+    <size>49123,62890625 B</size>
+  </portion>
+  <portion>
+    <processName>opera</processName>
+    <type>1</type>
+    <sTime>25.11.2016 17:02:26.691</sTime>
+    <cTime>25.11.2016 17:02:26.691</cTime>
+    <size>58338,95703125 B</size>
+  </portion>
+  <portion>
+    <processName>SearchUI</processName>
+    <type>0</type>
+    <sTime>25.11.2016 17:02:26.700</sTime>
+    <cTime>25.11.2016 17:02:26.700</cTime>
+    <size>73645,8359375 B</size>
+  </portion>
+  <portion>
+    <processName>System</processName>
+    <type>1</type>
+    <sTime>25.11.2016 17:02:26.707</sTime>
+    <cTime>25.11.2016 17:02:26.707</cTime>
+    <size>46313,1796875 B</size>
+  </portion>
+  <portion>
+    <processName>smss</processName>
+    <type>0</type>
+    <sTime>25.11.2016 17:02:27.4</sTime>
+    <cTime>25.11.2016 17:02:27.4</cTime>
+    <size>778,183166503906 B</size>
+  </portion>
+  <portion>
+    <processName>opera</processName>
+    <type>0</type>
+    <sTime>25.11.2016 17:02:27.94</sTime>
+    <cTime>25.11.2016 17:02:27.94</cTime>
+    <size>40413,265625 B</size>
+  </portion>
+  <portion>
+    <processName>SMSvcHost</processName>
+    <type>1</type>
+    <sTime>25.11.2016 17:02:27.138</sTime>
+    <cTime>25.11.2016 17:02:27.138</cTime>
+    <size>36285,46875 B</size>
+  </portion>
+  <portion>
+    <processName>Microsoft.Alm.Shared.Remoting.RemoteContainer.dll</processName>
+    <type>1</type>
+    <sTime>25.11.2016 17:02:27.589</sTime>
+    <cTime>25.11.2016 17:02:27.589</cTime>
+    <size>328055,25 B</size>
+  </portion>
+  <portion>
+    <processName>armsvc</processName>
+    <type>0</type>
+    <sTime>25.11.2016 17:02:27.623</sTime>
+    <cTime>25.11.2016 17:02:27.623</cTime>
+    <size>188338,859375 B</size>
+  </portion>
+  <portion>
+    <processName>opera</processName>
+    <type>0</type>
+    <sTime>25.11.2016 17:02:27.665</sTime>
+    <cTime>25.11.2016 17:02:27.665</cTime>
+    <size>2832,82250976563 B</size>
+  </portion>
+  <portion>
+    <processName>WindowsFormsApplication1.vshost</processName>
+    <type>1</type>
+    <sTime>25.11.2016 17:02:27.674</sTime>
+    <cTime>25.11.2016 17:02:27.674</cTime>
+    <size>5881,69921875 B</size>
+  </portion>
+  <portion>
+    <processName>svchost</processName>
+    <type>1</type>
+    <sTime>25.11.2016 17:02:27.708</sTime>
+    <cTime>25.11.2016 17:02:27.708</cTime>
+    <size>125645,953125 B</size>
+  </portion>
+  <portion>
+    <processName>dwm</processName>
+    <type>1</type>
+    <sTime>25.11.2016 17:02:27.936</sTime>
+    <cTime>25.11.2016 17:02:27.937</cTime>
+    <size>175224,890625 B</size>
+  </portion>
+  <portion>
+    <processName>SMSvcHost</processName>
+    <type>0</type>
+    <sTime>25.11.2016 17:02:27.969</sTime>
+    <cTime>25.11.2016 17:02:27.969</cTime>
+    <size>290093,65625 B</size>
+  </portion>
+  <portion>
+    <processName>opera_crashreporter</processName>
+    <type>1</type>
+    <sTime>25.11.2016 17:02:28.4</sTime>
+    <cTime>25.11.2016 17:02:28.4</cTime>
+    <size>272914,125 B</size>
+  </portion>
+  <portion>
+    <processName>VsEtwService</processName>
+    <type>0</type>
+    <sTime>25.11.2016 17:02:28.45</sTime>
+    <cTime>25.11.2016 17:02:28.45</cTime>
+    <size>73192,0625 B</size>
+  </portion>
+  <portion>
+    <processName>dwarkdaemon</processName>
+    <type>1</type>
+    <sTime>25.11.2016 17:02:28.62</sTime>
+    <cTime>25.11.2016 17:02:28.62</cTime>
+    <size>828132,9375 B</size>
+  </portion>
+  <portion>
+    <processName>sihost</processName>
+    <type>0</type>
+    <sTime>25.11.2016 17:02:28.81</sTime>
+    <cTime>25.11.2016 17:02:28.81</cTime>
+    <size>72305,59375 B</size>
+  </portion>
+  <portion>
+    <processName>WUDFHost</processName>
+    <type>1</type>
+    <sTime>25.11.2016 17:02:28.102</sTime>
+    <cTime>25.11.2016 17:02:28.102</cTime>
+    <size>42237,96484375 B</size>
+  </portion>
+  <portion>
+    <processName>conhost</processName>
+    <type>1</type>
+    <sTime>25.11.2016 17:02:30.710</sTime>
+    <cTime>25.11.2016 17:02:30.710</cTime>
+    <size>80716,65625 B</size>
+  </portion>
+  <portion>
+    <processName>opera</processName>
+    <type>0</type>
+    <sTime>25.11.2016 17:02:30.729</sTime>
+    <cTime>25.11.2016 17:02:30.729</cTime>
+    <size>32085,732421875 B</size>
+  </portion>
+  <portion>
+    <processName>backgroundTaskHost</processName>
+    <type>0</type>
+    <sTime>25.11.2016 17:02:30.743</sTime>
+    <cTime>25.11.2016 17:02:30.743</cTime>
+    <size>3774,53857421875 B</size>
+  </portion>
+  <portion>
+    <processName>svchost</processName>
+    <type>0</type>
+    <sTime>25.11.2016 17:02:30.767</sTime>
+    <cTime>25.11.2016 17:02:30.767</cTime>
+    <size>125310,7734375 B</size>
+  </portion>
+  <portion>
+    <processName>RuntimeBroker</processName>
+    <type>0</type>
+    <sTime>25.11.2016 17:02:30.778</sTime>
+    <cTime>25.11.2016 17:02:30.778</cTime>
+    <size>58899,171875 B</size>
+  </portion>
+  <portion>
+    <processName>csrss</processName>
+    <type>0</type>
+    <sTime>25.11.2016 17:02:30.832</sTime>
+    <cTime>25.11.2016 17:02:30.832</cTime>
+    <size>79137,28125 B</size>
+  </portion>
+  <portion>
+    <processName>svchost</processName>
+    <type>0</type>
+    <sTime>25.11.2016 17:02:30.846</sTime>
+    <cTime>25.11.2016 17:02:30.846</cTime>
+    <size>28095,4921875 B</size>
+  </portion>
+  <portion>
+    <processName>devenv</processName>
+    <type>0</type>
+    <sTime>25.11.2016 17:02:30.858</sTime>
+    <cTime>25.11.2016 17:02:30.858</cTime>
+    <size>26442,359375 B</size>
+  </portion>
+  <portion>
+    <processName>dasHost</processName>
+    <type>0</type>
+    <sTime>25.11.2016 17:02:30.866</sTime>
+    <cTime>25.11.2016 17:02:30.866</cTime>
+    <size>104541,4921875 B</size>
+  </portion>
+  <portion>
+    <processName>svchost</processName>
+    <type>0</type>
+    <sTime>25.11.2016 17:02:31.111</sTime>
+    <cTime>25.11.2016 17:02:31.111</cTime>
+    <size>38274,796875 B</size>
+  </portion>
+  <portion>
+    <processName>PassThruSvr</processName>
+    <type>0</type>
+    <sTime>25.11.2016 17:02:31.146</sTime>
+    <cTime>25.11.2016 17:02:31.146</cTime>
+    <size>19868,59375 B</size>
+  </portion>
+  <portion>
+    <processName>vstest.discoveryengine</processName>
+    <type>1</type>
+    <sTime>25.11.2016 17:02:31.194</sTime>
+    <cTime>25.11.2016 17:02:31.194</cTime>
+    <size>47763,8984375 B</size>
+  </portion>
+  <portion>
+    <processName>Microsoft.Alm.Shared.Remoting.RemoteContainer.dll</processName>
+    <type>0</type>
+    <sTime>25.11.2016 17:02:31.297</sTime>
+    <cTime>25.11.2016 17:02:31.297</cTime>
+    <size>358874,125 B</size>
+  </portion>
+  <portion>
+    <processName>igfxpers</processName>
+    <type>1</type>
+    <sTime>25.11.2016 17:02:31.765</sTime>
+    <cTime>25.11.2016 17:02:31.765</cTime>
+    <size>10069,533203125 B</size>
+  </portion>
+  <portion>
+    <processName>svchost</processName>
+    <type>0</type>
+    <sTime>25.11.2016 17:02:31.777</sTime>
+    <cTime>25.11.2016 17:02:31.777</cTime>
+    <size>36943,67578125 B</size>
+  </portion>
+  <portion>
+    <processName>opera</processName>
+    <type>0</type>
+    <sTime>25.11.2016 17:02:31.797</sTime>
+    <cTime>25.11.2016 17:02:31.797</cTime>
+    <size>4507,37158203125 B</size>
+  </portion>
+  <portion>
+    <processName>dwarkdaemon</processName>
+    <type>0</type>
+    <sTime>25.11.2016 17:02:31.877</sTime>
+    <cTime>25.11.2016 17:02:31.877</cTime>
+    <size>102540,046875 B</size>
+  </portion>
+  <portion>
+    <processName>opera</processName>
+    <type>1</type>
+    <sTime>25.11.2016 17:02:31.929</sTime>
+    <cTime>25.11.2016 17:02:31.929</cTime>
+    <size>4973,4248046875 B</size>
+  </portion>
+  <portion>
+    <processName>opera</processName>
+    <type>0</type>
+    <sTime>25.11.2016 17:02:33.88</sTime>
+    <cTime>25.11.2016 17:02:33.88</cTime>
+    <size>293687,625 B</size>
+  </portion>
+  <portion>
+    <processName>System</processName>
+    <type>1</type>
+    <sTime>25.11.2016 17:02:33.151</sTime>
+    <cTime>25.11.2016 17:02:33.151</cTime>
+    <size>51663,34375 B</size>
+  </portion>
+  <portion>
+    <processName>explorer</processName>
+    <type>1</type>
+    <sTime>25.11.2016 17:02:34.57</sTime>
+    <cTime>25.11.2016 17:02:34.57</cTime>
+    <size>155042,359375 B</size>
+  </portion>
+  <portion>
+    <processName>SMSvcHost</processName>
+    <type>0</type>
+    <sTime>25.11.2016 17:02:34.73</sTime>
+    <cTime>25.11.2016 17:02:34.73</cTime>
+    <size>67522,25 B</size>
+  </portion>
+  <portion>
+    <processName>opera</processName>
+    <type>1</type>
+    <sTime>27.11.2016 2:09:28.487</sTime>
+    <cTime>27.11.2016 2:09:28.488</cTime>
+    <size>47795,8359375 B</size>
+  </portion>
+  <portion>
+    <processName>mqsvc</processName>
+    <type>0</type>
+    <sTime>27.11.2016 2:09:28.552</sTime>
+    <cTime>27.11.2016 2:09:28.552</cTime>
+    <size>954,889709472656 B</size>
+  </portion>
+  <portion>
+    <processName>ibserver</processName>
+    <type>1</type>
+    <sTime>27.11.2016 2:44:14.905</sTime>
+    <cTime>27.11.2016 2:44:14.906</cTime>
+    <size>50575,55859375 B</size>
+  </portion>
+  <portion>
+    <processName>svchost</processName>
+    <type>0</type>
+    <sTime>27.11.2016 2:44:15.3</sTime>
+    <cTime>27.11.2016 2:44:15.3</cTime>
+    <size>15363,9052734375 B</size>
+  </portion>
+  <portion>
+    <processName>opera</processName>
+    <type>0</type>
+    <sTime>27.11.2016 2:44:15.23</sTime>
+    <cTime>27.11.2016 2:44:15.23</cTime>
+    <size>181560,859375 B</size>
+  </portion>
+  <portion>
+    <processName>ViakaraokeSrv</processName>
+    <type>0</type>
+    <sTime>27.11.2016 2:44:15.70</sTime>
+    <cTime>27.11.2016 2:44:15.70</cTime>
+    <size>414767,625 B</size>
+  </portion>
+  <portion>
+    <processName>Microsoft.Alm.Shared.Remoting.RemoteContainer.dll</processName>
+    <type>0</type>
+    <sTime>27.11.2016 2:44:15.93</sTime>
+    <cTime>27.11.2016 2:44:15.93</cTime>
+    <size>87267,890625 B</size>
+  </portion>
+  <portion>
+    <processName>svchost</processName>
+    <type>0</type>
+    <sTime>27.11.2016 2:44:15.138</sTime>
+    <cTime>27.11.2016 2:44:15.138</cTime>
+    <size>31265,65625 B</size>
+  </portion>
+  <portion>
+    <processName>svchost</processName>
+    <type>1</type>
+    <sTime>27.11.2016 2:44:18.544</sTime>
+    <cTime>27.11.2016 2:44:18.544</cTime>
+    <size>15836,2578125 B</size>
+  </portion>
+  <portion>
+    <processName>opera</processName>
+    <type>0</type>
+    <sTime>27.11.2016 2:44:18.606</sTime>
+    <cTime>27.11.2016 2:44:18.606</cTime>
+    <size>1929,77868652344 B</size>
+  </portion>
+  <portion>
+    <processName>SearchFilterHost</processName>
+    <type>0</type>
+    <sTime>27.11.2016 2:44:18.778</sTime>
+    <cTime>27.11.2016 2:44:18.778</cTime>
+    <size>73174,9375 B</size>
+  </portion>
+  <portion>
+    <processName>opera</processName>
+    <type>0</type>
+    <sTime>27.11.2016 2:53:36.566</sTime>
+    <cTime>27.11.2016 2:53:36.566</cTime>
+    <size>42131,6171875 B</size>
+  </portion>
+  <portion>
+    <processName>ibserver</processName>
+    <type>1</type>
+    <sTime>27.11.2016 2:53:37.213</sTime>
+    <cTime>27.11.2016 2:53:37.213</cTime>
+    <size>47366,53125 B</size>
+  </portion>
+  <portion>
+    <processName>svchost</processName>
+    <type>0</type>
+    <sTime>27.11.2016 2:53:37.213</sTime>
+    <cTime>27.11.2016 2:53:37.213</cTime>
+    <size>17723,9765625 B</size>
+  </portion>
+  <portion>
+    <processName>Microsoft.Alm.Shared.Remoting.RemoteContainer.dll</processName>
+    <type>0</type>
+    <sTime>27.11.2016 2:53:37.904</sTime>
+    <cTime>27.11.2016 2:53:37.904</cTime>
+    <size>991196,3125 B</size>
+  </portion>
+  <portion>
+    <processName>PassThruSvr</processName>
+    <type>0</type>
+    <sTime>27.11.2016 2:53:37.920</sTime>
+    <cTime>27.11.2016 2:53:37.920</cTime>
+    <size>112759,9453125 B</size>
+  </portion>
+  <portion>
+    <processName>conhost</processName>
+    <type>0</type>
+    <sTime>27.11.2016 2:56:01.365</sTime>
+    <cTime>27.11.2016 2:56:01.365</cTime>
+    <size>312986,71875 B</size>
+  </portion>
+  <portion>
+    <processName>hkcmd</processName>
+    <type>1</type>
+    <sTime>27.11.2016 2:56:01.381</sTime>
+    <cTime>27.11.2016 2:56:01.381</cTime>
+    <size>152366,96875 B</size>
+  </portion>
+  <portion>
+    <processName>svchost</processName>
+    <type>0</type>
+    <sTime>27.11.2016 2:56:01.508</sTime>
+    <cTime>27.11.2016 2:56:01.508</cTime>
+    <size>70406,859375 B</size>
+  </portion>
+  <portion>
+    <processName>svchost</processName>
+    <type>1</type>
+    <sTime>27.11.2016 2:56:01.774</sTime>
+    <cTime>27.11.2016 2:56:01.774</cTime>
+    <size>53779,1484375 B</size>
+  </portion>
+  <portion>
+    <processName>svchost</processName>
+    <type>0</type>
+    <sTime>27.11.2016 2:56:01.789</sTime>
+    <cTime>27.11.2016 2:56:01.789</cTime>
+    <size>25010,876953125 B</size>
+  </portion>
+  <portion>
+    <processName>opera</processName>
+    <type>1</type>
+    <sTime>28.11.2016 23:21:37.784</sTime>
+    <cTime>28.11.2016 23:21:37.784</cTime>
+    <size>67162,1171875 B</size>
+  </portion>
+  <portion>
+    <processName>opera</processName>
+    <type>0</type>
+    <sTime>28.11.2016 23:21:37.862</sTime>
+    <cTime>28.11.2016 23:21:37.862</cTime>
+    <size>879,703430175781 B</size>
+  </portion>
+  <portion>
+    <processName>svchost</processName>
+    <type>0</type>
+    <sTime>28.11.2016 23:21:40.644</sTime>
+    <cTime>28.11.2016 23:21:40.644</cTime>
+    <size>982896,5 B</size>
+  </portion>
+  <portion>
+    <processName>svchost</processName>
+    <type>0</type>
+    <sTime>28.11.2016 23:21:40.660</sTime>
+    <cTime>28.11.2016 23:21:40.660</cTime>
+    <size>87808,8203125 B</size>
+  </portion>
+  <portion>
+    <processName>ShellExperienceHost</processName>
+    <type>0</type>
+    <sTime>28.11.2016 23:21:42.82</sTime>
+    <cTime>28.11.2016 23:21:42.82</cTime>
+    <size>309745,75 B</size>
+  </portion>
+  <portion>
+    <processName>svchost</processName>
+    <type>1</type>
+    <sTime>28.11.2016 23:21:42.144</sTime>
+    <cTime>28.11.2016 23:21:42.144</cTime>
+    <size>50815,01953125 B</size>
+  </portion>
+  <portion>
+    <processName>VsEtwService</processName>
+    <type>1</type>
+    <sTime>28.11.2016 23:21:42.642</sTime>
+    <cTime>28.11.2016 23:21:42.642</cTime>
+    <size>43489,21484375 B</size>
+  </portion>
+  <portion>
+    <processName>raysat_3dsmax2013_32server</processName>
+    <type>0</type>
+    <sTime>28.11.2016 23:21:42.657</sTime>
+    <cTime>28.11.2016 23:21:42.657</cTime>
+    <size>73242,640625 B</size>
+  </portion>
+  <portion>
+    <processName>EXCEL</processName>
+    <type>1</type>
+    <sTime>06.12.2016 0:10:40.219</sTime>
+    <cTime>06.12.2016 0:10:40.219</cTime>
+    <size>41695,390625 B</size>
+  </portion>
+  <portion>
+    <processName>winlogon</processName>
+    <type>0</type>
+    <sTime>06.12.2016 0:10:40.219</sTime>
+    <cTime>06.12.2016 0:10:40.219</cTime>
+    <size>5021,39990234375 B</size>
+  </portion>
+  <portion>
+    <processName>svchost</processName>
+    <type>0</type>
+    <sTime>06.12.2016 0:14:36.646</sTime>
+    <cTime>06.12.2016 0:14:36.646</cTime>
+    <size>665300,875 B</size>
+  </portion>
+  <portion>
+    <processName>dwm</processName>
+    <type>0</type>
+    <sTime>06.12.2016 0:14:36.661</sTime>
+    <cTime>06.12.2016 0:14:36.661</cTime>
+    <size>53412,19921875 B</size>
+  </portion>
+  <portion>
+    <processName>dwm</processName>
+    <type>0</type>
+    <sTime>06.12.2016 0:14:43.725</sTime>
+    <cTime>06.12.2016 0:14:43.725</cTime>
+    <size>71682,9296875 B</size>
+  </portion>
+  <portion>
+    <processName>ViakaraokeSrv</processName>
+    <type>1</type>
+    <sTime>09.12.2016 20:13:30.64</sTime>
+    <cTime>09.12.2016 20:13:30.64</cTime>
+    <size>11979,7451171875 B</size>
+  </portion>
+  <portion>
+    <processName>devenv</processName>
+    <type>0</type>
+    <sTime>09.12.2016 20:13:30.138</sTime>
+    <cTime>09.12.2016 20:13:30.138</cTime>
+    <size>4019,4794921875 B</size>
+  </portion>
+  <portion>
+    <processName>WUDFHost</processName>
+    <type>0</type>
+    <sTime>09.12.2016 20:13:32.284</sTime>
+    <cTime>09.12.2016 20:13:32.284</cTime>
+    <size>666491,4375 B</size>
+  </portion>
+  <portion>
+    <processName>EXCEL</processName>
+    <type>0</type>
+    <sTime>09.12.2016 20:13:32.296</sTime>
+    <cTime>09.12.2016 20:13:32.296</cTime>
+    <size>62208,44921875 B</size>
+  </portion>
+  <portion>
+    <processName>svchost</processName>
+    <type>1</type>
+    <sTime>09.12.2016 20:13:38.40</sTime>
+    <cTime>09.12.2016 20:13:38.40</cTime>
+    <size>15924,103515625 B</size>
+  </portion>
+  <portion>
+    <processName>svchost</processName>
+    <type>0</type>
+    <sTime>09.12.2016 20:13:38.78</sTime>
+    <cTime>09.12.2016 20:13:38.78</cTime>
+    <size>3490,16723632813 B</size>
+  </portion>
+  <portion>
+    <processName>VsEtwService</processName>
+    <type>0</type>
+    <sTime>09.12.2016 20:13:38.793</sTime>
+    <cTime>09.12.2016 20:13:38.793</cTime>
+    <size>68250,4375 B</size>
+  </portion>
+  <portion>
+    <processName>opera</processName>
+    <type>1</type>
+    <sTime>13.12.2016 18:39:49.309</sTime>
+    <cTime>13.12.2016 18:39:49.309</cTime>
+    <size>2805,20629882813 B</size>
+  </portion>
+  <portion>
+    <processName>VsEtwService</processName>
+    <type>0</type>
+    <sTime>13.12.2016 18:39:49.394</sTime>
+    <cTime>13.12.2016 18:39:49.394</cTime>
+    <size>143488,109375 B</size>
+  </portion>
+  <portion>
+    <processName>System</processName>
+    <type>0</type>
+    <sTime>13.12.2016 18:39:52.503</sTime>
+    <cTime>13.12.2016 18:39:52.503</cTime>
+    <size>6818972,5 B</size>
+  </portion>
+  <portion>
+    <processName>svchost</processName>
+    <type>0</type>
+    <sTime>13.12.2016 18:39:52.515</sTime>
+    <cTime>13.12.2016 18:39:52.515</cTime>
+    <size>1869003,625 B</size>
+  </portion>
+  <portion>
+    <processName>svchost</processName>
+    <type>1</type>
+    <sTime>13.12.2016 18:39:53.122</sTime>
+    <cTime>13.12.2016 18:39:53.122</cTime>
+    <size>53049,125 B</size>
+  </portion>
+  <portion>
+    <processName>igfxpers</processName>
+    <type>0</type>
+    <sTime>13.12.2016 18:39:53.134</sTime>
+    <cTime>13.12.2016 18:39:53.134</cTime>
+    <size>2918097,25 B</size>
+  </portion>
+  <portion>
+    <processName>svchost</processName>
+    <type>0</type>
+    <sTime>13.12.2016 18:39:53.725</sTime>
+    <cTime>13.12.2016 18:39:53.725</cTime>
+    <size>17586144 B</size>
+  </portion>
+  <portion>
+    <processName>Idle</processName>
+    <type>0</type>
+    <sTime>13.12.2016 18:39:53.738</sTime>
+    <cTime>13.12.2016 18:39:53.738</cTime>
+    <size>1280562,5 B</size>
+  </portion>
+  <portion>
+    <processName>svchost</processName>
+    <type>0</type>
+    <sTime>13.12.2016 18:39:54.295</sTime>
+    <cTime>13.12.2016 18:39:54.295</cTime>
+    <size>10033806 B</size>
+  </portion>
+  <portion>
+    <processName>opera</processName>
+    <type>0</type>
+    <sTime>13.12.2016 18:39:54.306</sTime>
+    <cTime>13.12.2016 18:39:54.306</cTime>
+    <size>2092948,625 B</size>
+  </portion>
+  <portion>
+    <processName>ibguard</processName>
+    <type>0</type>
+    <sTime>13.12.2016 18:39:54.870</sTime>
+    <cTime>13.12.2016 18:39:54.870</cTime>
+    <size>2802401,75 B</size>
+  </portion>
+  <portion>
+    <processName>dasHost</processName>
+    <type>0</type>
+    <sTime>13.12.2016 18:39:54.882</sTime>
+    <cTime>13.12.2016 18:39:54.882</cTime>
+    <size>2685712 B</size>
+  </portion>
+  <portion>
+    <processName>taskhostw</processName>
+    <type>1</type>
+    <sTime>13.12.2016 18:42:37.909</sTime>
+    <cTime>13.12.2016 18:42:37.909</cTime>
+    <size>75998,8515625 B</size>
+  </portion>
+  <portion>
+    <processName>WindowsFormsApplication1.vshost</processName>
+    <type>0</type>
+    <sTime>13.12.2016 18:42:37.922</sTime>
+    <cTime>13.12.2016 18:42:37.922</cTime>
+    <size>2528121 B</size>
+  </portion>
+  <portion>
+    <processName>SMSvcHost</processName>
+    <type>0</type>
+    <sTime>13.12.2016 18:42:38.540</sTime>
+    <cTime>13.12.2016 18:42:38.540</cTime>
+    <size>2692763 B</size>
+  </portion>
+  <portion>
+    <processName>hkcmd</processName>
+    <type>0</type>
+    <sTime>13.12.2016 18:42:38.560</sTime>
+    <cTime>13.12.2016 18:42:38.560</cTime>
+    <size>2580146,5 B</size>
+  </portion>
+  <portion>
+    <processName>ViakaraokeSrv</processName>
+    <type>0</type>
+    <sTime>17.12.2016 15:01:08.182</sTime>
+    <cTime>17.12.2016 15:01:08.182</cTime>
+    <size>671774,8125 B</size>
+  </portion>
+  <portion>
+    <processName>VsEtwService</processName>
+    <type>0</type>
+    <sTime>17.12.2016 15:01:08.220</sTime>
+    <cTime>17.12.2016 15:01:08.220</cTime>
+    <size>18129,31640625 B</size>
+  </portion>
+  <portion>
+    <processName>devenv</processName>
+    <type>0</type>
+    <sTime>17.12.2016 15:01:29.838</sTime>
+    <cTime>17.12.2016 15:01:29.838</cTime>
+    <size>30441,486328125 B</size>
+  </portion>
+  <portion>
+    <processName>igfxtray</processName>
+    <type>1</type>
+    <sTime>17.12.2016 15:01:29.966</sTime>
+    <cTime>17.12.2016 15:01:29.966</cTime>
+    <size>76030,5625 B</size>
+  </portion>
+  <portion>
+    <processName>conhost</processName>
+    <type>0</type>
+    <sTime>17.12.2016 15:01:33.958</sTime>
+    <cTime>17.12.2016 15:01:33.958</cTime>
+    <size>43570,4765625 B</size>
+  </portion>
+  <portion>
+    <processName>ibguard</processName>
+    <type>0</type>
+    <sTime>17.12.2016 15:01:35.113</sTime>
+    <cTime>17.12.2016 15:01:35.113</cTime>
+    <size>335514,78125 B</size>
+  </portion>
+  <portion>
+    <processName>EXCEL</processName>
+    <type>0</type>
+    <sTime>17.12.2016 15:01:35.128</sTime>
+    <cTime>17.12.2016 15:01:35.128</cTime>
+    <size>29892,435546875 B</size>
+  </portion>
+  <portion>
+    <processName>SystemSettingsBroker</processName>
+    <type>0</type>
+    <sTime>17.12.2016 15:01:42.492</sTime>
+    <cTime>17.12.2016 15:01:42.492</cTime>
+    <size>102232,2421875 B</size>
+  </portion>
+  <portion>
+    <processName>WUDFHost</processName>
+    <type>1</type>
+    <sTime>24.02.2017 1:08:35.920</sTime>
+    <cTime>24.02.2017 1:08:35.920</cTime>
+    <size>51009,76171875 B</size>
+  </portion>
+  <portion>
+    <processName>armsvc</processName>
+    <type>0</type>
+    <sTime>24.02.2017 1:08:36.16</sTime>
+    <cTime>24.02.2017 1:08:36.17</cTime>
+    <size>687,902587890625 B</size>
+  </portion>
+  <portion>
+    <processName>mqsvc</processName>
+    <type>0</type>
+    <sTime>24.02.2017 1:08:36.873</sTime>
+    <cTime>24.02.2017 1:08:36.873</cTime>
+    <size>57781,03125 B</size>
+  </portion>
+  <portion>
+    <processName>svchost</processName>
+    <type>0</type>
+    <sTime>24.02.2017 1:08:36.887</sTime>
+    <cTime>24.02.2017 1:08:36.888</cTime>
+    <size>355113,59375 B</size>
+  </portion>
+  <portion>
+    <processName>EXCEL</processName>
+    <type>1</type>
+    <sTime>24.02.2017 1:08:36.906</sTime>
+    <cTime>24.02.2017 1:08:36.906</cTime>
+    <size>8905,9033203125 B</size>
+  </portion>
+  <portion>
+    <processName>wininit</processName>
+    <type>0</type>
+    <sTime>24.02.2017 1:08:40.717</sTime>
+    <cTime>24.02.2017 1:08:40.717</cTime>
+    <size>135721,5 B</size>
+  </portion>
+  <portion>
+    <processName>SkypeHost</processName>
+    <type>0</type>
+    <sTime>24.02.2017 1:08:40.732</sTime>
+    <cTime>24.02.2017 1:08:40.732</cTime>
+    <size>20660,44921875 B</size>
+  </portion>
+  <portion>
+    <processName>explorer</processName>
+    <type>1</type>
+    <sTime>24.02.2017 1:08:45.927</sTime>
+    <cTime>24.02.2017 1:08:45.927</cTime>
+    <size>50902,3359375 B</size>
+  </portion>
+  <portion>
+    <processName>DropboxUpdate</processName>
+    <type>0</type>
+    <sTime>24.02.2017 1:08:45.978</sTime>
+    <cTime>24.02.2017 1:08:45.978</cTime>
+    <size>1314,94372558594 B</size>
+  </portion>
+  <portion>
+    <processName>ApplicationFrameHost</processName>
+    <type>0</type>
+    <sTime>24.02.2017 1:08:48.375</sTime>
+    <cTime>24.02.2017 1:08:48.375</cTime>
+    <size>158342,15625 B</size>
+  </portion>
+  <portion>
+    <processName>sqlwriter</processName>
+    <type>1</type>
+    <sTime>24.02.2017 1:08:48.387</sTime>
+    <cTime>24.02.2017 1:08:48.387</cTime>
+    <size>76630,7890625 B</size>
+  </portion>
+  <portion>
+    <processName>devenv</processName>
+    <type>0</type>
+    <sTime>24.02.2017 1:08:48.458</sTime>
+    <cTime>24.02.2017 1:08:48.458</cTime>
+    <size>214181,875 B</size>
+  </portion>
+  <portion>
+    <processName>taskhostw</processName>
+    <type>1</type>
+    <sTime>24.02.2017 1:08:48.496</sTime>
+    <cTime>24.02.2017 1:08:48.496</cTime>
+    <size>43729,734375 B</size>
+  </portion>
+  <portion>
+    <processName>sihost</processName>
+    <type>0</type>
+    <sTime>24.02.2017 1:08:49.208</sTime>
+    <cTime>24.02.2017 1:08:49.208</cTime>
+    <size>361134,78125 B</size>
+  </portion>
+  <portion>
+    <processName>DbxSvc</processName>
+    <type>1</type>
+    <sTime>24.02.2017 1:08:49.248</sTime>
+    <cTime>24.02.2017 1:08:49.248</cTime>
+    <size>31095,001953125 B</size>
+  </portion>
+  <portion>
+    <processName>sqlwriter</processName>
+    <type>0</type>
+    <sTime>24.02.2017 1:08:50.370</sTime>
+    <cTime>24.02.2017 1:08:50.370</cTime>
+    <size>359202,5625 B</size>
+  </portion>
+  <portion>
+    <processName>WUDFHost</processName>
+    <type>0</type>
+    <sTime>24.02.2017 1:08:50.384</sTime>
+    <cTime>24.02.2017 1:08:50.384</cTime>
+    <size>194665,40625 B</size>
+  </portion>
+  <portion>
+    <processName>smss</processName>
+    <type>1</type>
+    <sTime>09.07.2017 1:12:07.52</sTime>
+    <cTime>09.07.2017 1:12:07.61</cTime>
+    <size>3346,693359375 B</size>
+  </portion>
+  <portion>
+    <processName>smartscreen</processName>
+    <type>0</type>
+    <sTime>09.07.2017 1:12:07.107</sTime>
+    <cTime>09.07.2017 1:12:07.107</cTime>
+    <size>1193,35595703125 B</size>
+  </portion>
+  <portion>
+    <processName>chrome</processName>
+    <type>0</type>
+    <sTime>09.07.2017 1:12:07.120</sTime>
+    <cTime>09.07.2017 1:12:07.120</cTime>
+    <size>9194,4482421875 B</size>
+  </portion>
+  <portion>
+    <processName>sqlwriter</processName>
+    <type>0</type>
+    <sTime>09.07.2017 1:12:17.413</sTime>
+    <cTime>09.07.2017 1:12:17.413</cTime>
+    <size>464288,90625 B</size>
+  </portion>
+  <portion>
+    <processName>csrss</processName>
+    <type>1</type>
+    <sTime>09.07.2017 1:12:17.463</sTime>
+    <cTime>09.07.2017 1:12:17.463</cTime>
+    <size>31027,20703125 B</size>
+  </portion>
+  <portion>
+    <processName>EXCEL</processName>
+    <type>0</type>
+    <sTime>09.07.2017 1:12:21.989</sTime>
+    <cTime>09.07.2017 1:12:21.989</cTime>
+    <size>83972,546875 B</size>
+  </portion>
+  <portion>
+    <processName>PassThruSvr</processName>
+    <type>0</type>
+    <sTime>09.07.2017 1:12:22.31</sTime>
+    <cTime>09.07.2017 1:12:22.31</cTime>
+    <size>1521,37048339844 B</size>
+  </portion>
+  <portion>
+    <processName>explorer</processName>
+    <type>1</type>
+    <sTime>09.07.2017 1:12:22.53</sTime>
+    <cTime>09.07.2017 1:12:22.53</cTime>
+    <size>1209441,75 B</size>
+  </portion>
+  <portion>
+    <processName>chrome</processName>
+    <type>0</type>
+    <sTime>09.07.2017 1:12:22.86</sTime>
+    <cTime>09.07.2017 1:12:22.86</cTime>
+    <size>105645,59375 B</size>
+  </portion>
+  <portion>
+    <processName>lsass</processName>
+    <type>0</type>
+    <sTime>09.07.2017 1:12:30.252</sTime>
+    <cTime>09.07.2017 1:12:30.252</cTime>
+    <size>56826,25 B</size>
+  </portion>
+  <portion>
+    <processName>sqlservr</processName>
+    <type>1</type>
+    <sTime>09.07.2017 1:12:37.87</sTime>
+    <cTime>09.07.2017 1:12:37.87</cTime>
+    <size>42228,7578125 B</size>
+  </portion>
+  <portion>
+    <processName>svchost</processName>
+    <type>0</type>
+    <sTime>09.07.2017 1:12:37.115</sTime>
+    <cTime>09.07.2017 1:12:37.115</cTime>
+    <size>64286,92578125 B</size>
+  </portion>
+  <portion>
+    <processName>WUDFHost</processName>
+    <type>0</type>
+    <sTime>09.07.2017 1:12:37.147</sTime>
+    <cTime>09.07.2017 1:12:37.147</cTime>
+    <size>117318,7109375 B</size>
+  </portion>
+  <portion>
+    <processName>EXCEL</processName>
+    <type>1</type>
+    <sTime>09.07.2017 1:12:44.891</sTime>
+    <cTime>09.07.2017 1:12:44.891</cTime>
+    <size>48828,48046875 B</size>
+  </portion>
+  <portion>
+    <processName>igfxpers</processName>
+    <type>1</type>
+    <sTime>09.07.2017 1:12:44.920</sTime>
+    <cTime>09.07.2017 1:12:44.920</cTime>
+    <size>46821,390625 B</size>
+  </portion>
+  <portion>
+    <processName>svchost</processName>
+    <type>0</type>
+    <sTime>09.07.2017 1:12:44.933</sTime>
+    <cTime>09.07.2017 1:12:44.933</cTime>
+    <size>4489,08349609375 B</size>
+  </portion>
+  <portion>
+    <processName>svchost</processName>
+    <type>0</type>
+    <sTime>09.07.2017 1:12:47.276</sTime>
+    <cTime>09.07.2017 1:12:47.276</cTime>
+    <size>446544,34375 B</size>
+  </portion>
+  <portion>
+    <processName>MSASCuiL</processName>
+    <type>1</type>
+    <sTime>09.07.2017 1:12:47.325</sTime>
+    <cTime>09.07.2017 1:12:47.325</cTime>
+    <size>53628,5703125 B</size>
+  </portion>
+  <portion>
+    <processName>DropboxUpdate</processName>
+    <type>1</type>
+    <sTime>09.07.2017 1:12:52.138</sTime>
+    <cTime>09.07.2017 1:12:52.138</cTime>
+    <size>50347,8984375 B</size>
+  </portion>
+  <portion>
+    <processName>svchost</processName>
+    <type>1</type>
+    <sTime>09.07.2017 1:12:52.212</sTime>
+    <cTime>09.07.2017 1:12:52.212</cTime>
+    <size>31101,759765625 B</size>
+  </portion>
+  <portion>
+    <processName>fdhost</processName>
+    <type>0</type>
+    <sTime>09.07.2017 1:12:52.224</sTime>
+    <cTime>09.07.2017 1:12:52.224</cTime>
+    <size>5009,0009765625 B</size>
+  </portion>
+  <portion>
+    <processName>mqsvc</processName>
+    <type>0</type>
+    <sTime>09.07.2017 1:12:52.237</sTime>
+    <cTime>09.07.2017 1:12:52.237</cTime>
+    <size>4676,7255859375 B</size>
+  </portion>
+  <portion>
+    <processName>chrome</processName>
+    <type>0</type>
+    <sTime>09.07.2017 1:12:52.252</sTime>
+    <cTime>09.07.2017 1:12:52.252</cTime>
+    <size>45386,640625 B</size>
+  </portion>
+  <portion>
+    <processName>WindowsFormsApplication1</processName>
+    <type>0</type>
+    <sTime>09.07.2017 1:12:56.66</sTime>
+    <cTime>09.07.2017 1:12:56.66</cTime>
+    <size>169673,09375 B</size>
+  </portion>
+  <portion>
+    <processName>msmdsrv</processName>
+    <type>1</type>
+    <sTime>09.07.2017 1:12:56.116</sTime>
+    <cTime>09.07.2017 1:12:56.116</cTime>
+    <size>49959,24609375 B</size>
+  </portion>
+  <portion>
+    <processName>WUDFHost</processName>
+    <type>0</type>
+    <sTime>09.07.2017 1:13:00.248</sTime>
+    <cTime>09.07.2017 1:13:00.248</cTime>
+    <size>45408,8046875 B</size>
+  </portion>
+  <portion>
+    <processName>chrome</processName>
+    <type>0</type>
+    <sTime>09.07.2017 1:13:06.991</sTime>
+    <cTime>09.07.2017 1:13:06.991</cTime>
+    <size>84830,7109375 B</size>
+  </portion>
+  <portion>
+    <processName>SkypeHost</processName>
+    <type>0</type>
+    <sTime>09.07.2017 1:13:07.3</sTime>
+    <cTime>09.07.2017 1:13:07.3</cTime>
+    <size>4936,787109375 B</size>
+  </portion>
+  <portion>
+    <processName>EXCEL</processName>
+    <type>1</type>
+    <sTime>09.07.2017 1:13:07.54</sTime>
+    <cTime>09.07.2017 1:13:07.54</cTime>
+    <size>57662,26171875 B</size>
+  </portion>
+  <portion>
+    <processName>svchost</processName>
+    <type>0</type>
+    <sTime>09.07.2017 1:13:07.86</sTime>
+    <cTime>09.07.2017 1:13:07.86</cTime>
+    <size>66093,6953125 B</size>
+  </portion>
+  <portion>
+    <processName>fdhost</processName>
+    <type>0</type>
+    <sTime>09.07.2017 1:13:07.123</sTime>
+    <cTime>09.07.2017 1:13:07.123</cTime>
+    <size>118549,4765625 B</size>
+  </portion>
+  <portion>
+    <processName>chrome</processName>
+    <type>1</type>
+    <sTime>09.07.2017 1:13:12.53</sTime>
+    <cTime>09.07.2017 1:13:12.53</cTime>
+    <size>1410600,625 B</size>
+  </portion>
+  <portion>
+    <processName>ShellExperienceHost</processName>
+    <type>1</type>
+    <sTime>09.07.2017 1:13:17.326</sTime>
+    <cTime>09.07.2017 1:13:17.326</cTime>
+    <size>54138,34765625 B</size>
+  </portion>
+  <portion>
+    <processName>Memory Compression</processName>
+    <type>0</type>
+    <sTime>09.07.2017 1:13:21.513</sTime>
+    <cTime>09.07.2017 1:13:21.513</cTime>
+    <size>41231,2421875 B</size>
+  </portion>
+  <portion>
+    <processName>IpOverUsbSvc</processName>
+    <type>0</type>
+    <sTime>09.07.2017 1:13:22.214</sTime>
+    <cTime>09.07.2017 1:13:22.214</cTime>
+    <size>59252,5390625 B</size>
+  </portion>
+  <portion>
+    <processName>EXCEL</processName>
+    <type>0</type>
+    <sTime>09.07.2017 1:13:22.231</sTime>
+    <cTime>09.07.2017 1:13:22.231</cTime>
+    <size>25195,77734375 B</size>
+  </portion>
+  <portion>
+    <processName>SMSvcHost</processName>
+    <type>0</type>
+    <sTime>09.07.2017 1:13:22.263</sTime>
+    <cTime>09.07.2017 1:13:22.263</cTime>
+    <size>305846,40625 B</size>
+  </portion>
+  <portion>
+    <processName>dwm</processName>
+    <type>1</type>
+    <sTime>09.07.2017 1:13:22.314</sTime>
+    <cTime>09.07.2017 1:13:22.314</cTime>
+    <size>44916,04296875 B</size>
+  </portion>
+  <portion>
+    <processName>dwm</processName>
+    <type>1</type>
+    <sTime>29.08.2017 1:48:48.85</sTime>
+    <cTime>29.08.2017 1:48:48.85</cTime>
+    <size>53387,3125 B</size>
+  </portion>
+  <portion>
+    <processName>csrss</processName>
+    <type>0</type>
+    <sTime>29.08.2017 1:48:48.147</sTime>
+    <cTime>29.08.2017 1:48:48.147</cTime>
+    <size>973,03857421875 B</size>
+  </portion>
+  <portion>
+    <processName>fontdrvhost</processName>
+    <type>0</type>
+    <sTime>29.08.2017 1:49:01.770</sTime>
+    <cTime>29.08.2017 1:49:01.770</cTime>
+    <size>382267,09375 B</size>
+  </portion>
+  <portion>
+    <processName>conhost</processName>
+    <type>0</type>
+    <sTime>29.08.2017 1:49:01.794</sTime>
+    <cTime>29.08.2017 1:49:01.794</cTime>
+    <size>48414,9140625 B</size>
+  </portion>
+</traffic>
